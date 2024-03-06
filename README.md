@@ -7,7 +7,7 @@ A collection of publicly available Nepali IPTV (Internet Protocol television) ch
 ## Table of contents
 
 - 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
+- 📺 [Playlist](#playlist)
 - 🗓 [EPG](#epg)
 - 🗄 [Database](#database)
 - 💬 [Discussions](#discussions)
