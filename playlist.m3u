@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NTV Network", NTV
+https://ntv-live.spr.com.np/ntv/master.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NTV Network", NTV Plus
+https://ntv-live.spr.com.np/ntv-plus/master.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="ntv-news" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="NTV Network", NTV News
+https://ntv-live.spr.com.np/ntv-news/master.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="ntv-kohalpur" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="NTV Network", NTV Kohalpur
+https://ntv-live.spr.com.np/ntv-kohalpur/master.m3u8
+#EXTINF:-1 tvg-id="600" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="NTV Network", NTV Itahari
+https://ntv-live.spr.com.np/ntv-itahari/master.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="kantipur-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kantipur_TV_HD.png/300px-Kantipur_TV_HD.png" group-title="HD", Kantipur HD
+https://ktvhdsg.ekantipur.com:8443/backup_23765291/hd/playlist.m3u8
