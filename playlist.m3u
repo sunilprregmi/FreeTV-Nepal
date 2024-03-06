@@ -11,3 +11,25 @@ https://ntv-live.spr.com.np/ntv-kohalpur/master.m3u8
 https://ntv-live.spr.com.np/ntv-itahari/master.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="kantipur-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kantipur_TV_HD.png/300px-Kantipur_TV_HD.png" group-title="HD", Kantipur HD
 https://ktvhdsg.ekantipur.com:8443/backup_23765291/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="mountain-tv" tvg-logo="https://api.eknepal.com/images/tv/emountaintv.png" group-title="Ek Nepal", Emountain
+https://ythls-v2.onrender.com/channel/UCtjmWttibtOsdow5lYBD-7A.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="avenues-tv" tvg-logo="https://api.eknepal.com/images/tv/avenewstv.png" group-title="Ek Nepal", Avenuse Khabar
+https://ythls-v2.onrender.com/channel/UCMDzPE_7fcZSRJgpwIVor_A.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="bhakti-darshan-tv" tvg-logo="https://api.eknepal.com/images/tv/bhaktidarshantv.png" group-title="Ek Nepal", Bhakti Darshan TV
+https://ythls-v2.onrender.com/channel/UCbpZ2cu74MjsOJbiuiwRzlg.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="image-channel" tvg-logo="https://api.eknepal.com/images/tv/imagechanneltv.png" group-title="Ek Nepal", Image Channel
+https://ythls-v2.onrender.com/channel/UCDeNjdARlhMEO-EbfzD6I9Q.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="business-plus-tv" tvg-logo="https://api.eknepal.com/images/tv/businesstv.png" group-title="Ek Nepal", Business Plus Television
+https://ythls-v2.onrender.com/channel/UC1p86Eqax3IrYqJ3akGyFEQ.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="sagarmatha-tv" tvg-logo="https://api.eknepal.com/images/tv/sagarmathatv.png" group-title="Ek Nepal", Sagarmatha
+https://ythls-v2.onrender.com/channel/UCR0sb6TDx2vY0DGsLlDr5BA.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="janata-tv" tvg-logo="https://api.eknepal.com/images/tv/janatatv.png" group-title="Ek Nepal", Janata
+https://streaming.tvnepal.com:3439/live/janatasamacharlive.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="yoho-tv" tvg-logo="https://api.eknepal.com/images/tv/yohokhabartv.png" group-title="Ek Nepal", Yoho
+https://www.youtube.com/embed/gmtDTiTck5s
+#EXTINF:-1 tvg-id="74" tvg-name="prime-times-tv" tvg-logo="https://api.eknepal.com/images/tv/primetv.png" group-title="Ek Nepal", Prime Times
+https://tv.eknepal.com/live/eknepalfeed/playlist.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="news24-nepal-tv" tvg-logo="https://api.eknepal.com/images/tv/news24tv.png" group-title="Ek Nepal", News24 Nepal
+https://ythls-v2.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="ap1-tv" tvg-logo="https://api.eknepal.com/images/tv/ap1tv.png" group-title="Ek Nepal", AP1
+https://ythls-v2.onrender.com/channel/UCFlPB2adH_uHaJfUCODTdrQ.m3u8
