@@ -10,7 +10,7 @@ https://relay1.spr.com.np/livetv/ts/ntv-kohalpur/playlist.m3u8
 #EXTINF:-1 tvg-id="600" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="NTV Network", NTV Itahari
 https://relay1.spr.com.np/livetv/ts/ntv-itahari/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="kantipur-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kantipur_TV_HD.png/300px-Kantipur_TV_HD.png" group-title="HD", Kantipur HD
-https://ktvhdsg.ekantipur.com:8443/backup_23765291/hd/playlist.m3u8
+https://relay3.spr.com.np/livetv/kantipur-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="mountain-tv" tvg-logo="https://api.eknepal.com/images/tv/emountaintv.png" group-title="Ek Nepal", Emountain
 https://ythls-v2.onrender.com/channel/UCtjmWttibtOsdow5lYBD-7A.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="avenues-tv" tvg-logo="https://api.eknepal.com/images/tv/avenewstv.png" group-title="Ek Nepal", Avenuse Khabar
