@@ -22,6 +22,8 @@ https://ythls-v2.onrender.com/channel/UCDeNjdARlhMEO-EbfzD6I9Q.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="business-plus-tv" tvg-logo="https://api.eknepal.com/images/tv/businesstv.png" group-title="Ek Nepal", Business Plus Television
 https://ythls-v2.onrender.com/channel/UC1p86Eqax3IrYqJ3akGyFEQ.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="sagarmatha-tv" tvg-logo="https://api.eknepal.com/images/tv/sagarmathatv.png" group-title="Ek Nepal", Sagarmatha
+https://relay4.spr.com.np/livetv/ts/sagarmatha-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="sagarmatha-tv-yt" tvg-logo="https://api.eknepal.com/images/tv/sagarmathatv.png" group-title="Ek Nepal", Sagarmatha YT
 https://ythls-v2.onrender.com/channel/UCR0sb6TDx2vY0DGsLlDr5BA.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="janata-tv" tvg-logo="https://api.eknepal.com/images/tv/janatatv.png" group-title="Ek Nepal", Janata
 https://streaming.tvnepal.com:3439/live/janatasamacharlive.m3u8
@@ -35,6 +37,10 @@ https://ythls-v2.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8
 https://ythls-v2.onrender.com/channel/UCFlPB2adH_uHaJfUCODTdrQ.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="nn-tv" tvg-logo="https://yt3.googleusercontent.com/T2MIZNMojRV8ujdEAHXJRkRq3mxfcDdV7ctbuQxi62nIQPiDUT1d_4hP-Y68Mv9hJjRDJY4QtVY" group-title="Not 24x7", Nepal Network TV
 https://ythls-v2.onrender.com/channel/UCSRerF7ip7v4PK5RDPzDKYA.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="capital-tv" tvg-logo="https://www.capitaltvhd.com/images/logo.png" group-title="HD", Capital TV HD
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="nepal-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Nepal-1_TV_black.png" group-title="News", Nepal 1
+https://relay-in1.spr.com.np/yupptv/nepal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="bodhi-tv" tvg-logo="https://play-lh.googleusercontent.com/QrJKPx0cErF2OVqbFLZTT7ULOwGGQquvOTyDQbuHp-GFaG-0Gjxs1fyXClpJgw8m41V5" group-title="Relegious", Bodhi TV
 https://webtv-stream.nettv.com.np/broadcaster/Bodhi450.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="abc-news-nepal" tvg-logo="https://tvtoday.nettvnepal.com.np/images/channel_logos/608.png" group-title="NITV CORP [NETWORK]", ABC News
@@ -57,8 +63,3 @@ https://relay4.spr.com.np/livetv/ts/business-tv/playlist.m3u8
 http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="paryawaran-tv" tvg-logo="https://play-lh.googleusercontent.com/nuKpFTfL_LoeT9XVIwtlpeBaRB5L0zmbF7j1hcFARHYgXyscoKRPeMntAXN_D81zZVbp" group-title="News", Paryawaran TV
 https://webtv-stream.nettv.com.np:443/broadcaster/Paryawaran.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="capital-tv" tvg-logo="https://www.capitaltvhd.com/images/logo.png" group-title="HD", Capital TV HD
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="nepal-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Nepal-1_TV_black.png" group-title="News", Nepal 1
-https://relay-in1.spr.com.np/yupptv/nepal-1/playlist.m3u8
