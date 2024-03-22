@@ -13,6 +13,8 @@ https://relay1.spr.com.np/livetv/ts/ntv-itahari/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCXzCi3nCbsp_8lmWLoaOnfA.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="action-sports-yt" tvg-logo="https://yt3.googleusercontent.com/qpBiHMnrdLxP9AVkAAgwjJon_iL2-DW0uh8S89-y4Gq7uZbtaUxfXkDOelPHKflrDc_qJv05" group-title="YT Event", Action Sports HD1 YT
 https://ythls-v2.onrender.com/channel/UCyEkDbFyiCSaLh1m_5FLvUw.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="mithila-tv-uhd" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lnh11AqLNQ8sCAftR0AztnnV_c1gr5hYG0sFV_" group-title="Movies", Mithila TV UHD
+http://150.107.205.212:1935/live/mithila/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="kantipur-hd" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" group-title="HD", Kantipur HD
 https://relay3.spr.com.np/livetv/kantipur-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="nn-tv" tvg-logo="https://yt3.googleusercontent.com/T2MIZNMojRV8ujdEAHXJRkRq3mxfcDdV7ctbuQxi62nIQPiDUT1d_4hP-Y68Mv9hJjRDJY4QtVY" group-title="Not 24x7", Nepal Network TV
