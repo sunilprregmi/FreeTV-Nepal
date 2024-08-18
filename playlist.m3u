@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NepTV GH", NTV
+#EXTINF:-1 tvg-id="101" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NepTV GH", NTV National
 https://neptv.guruusr.workers.dev/ntv/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NepTV GH", NTV Plus
 https://neptv.guruusr.workers.dev/ntv/ntv-plus/playlist.m3u8
