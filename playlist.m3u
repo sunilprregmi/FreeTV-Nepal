@@ -43,6 +43,8 @@ http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 https://webtv-stream.nettv.com.np/broadcaster/Bodhi450.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="206" tvg-name="paryawaran-tv" tvg-logo="https://play-lh.googleusercontent.com/nuKpFTfL_LoeT9XVIwtlpeBaRB5L0zmbF7j1hcFARHYgXyscoKRPeMntAXN_D81zZVbp" group-title="NepTV GH", Paryawaran TV
 https://webtv-stream.nettv.com.np:443/broadcaster/Paryawaran.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="divyadarshan-tv" tvg-logo="https://divyadarshantv.com/wp-content/uploads/2020/06/Divya-Darshan_tvlogo.png" group-title="NepTV GH", Divyadarshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="401" tvg-name="hofn-yt" tvg-logo="https://yt3.googleusercontent.com/UjuqnDPKS3wcpx1GNiFEPkEvcc-DGs1bgt9FuOLkPV2K0KJTalTkw3tlrWXmO11Df1imoGa_8g" group-title="NepTV GH", House of Representatives Nepal
 https://ythls-v2.onrender.com/channel/UCXzCi3nCbsp_8lmWLoaOnfA.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="action-sports-yt" tvg-logo="https://yt3.googleusercontent.com/qpBiHMnrdLxP9AVkAAgwjJon_iL2-DW0uh8S89-y4Gq7uZbtaUxfXkDOelPHKflrDc_qJv05" group-title="NepTV GH", Action Sports HD1 YT
